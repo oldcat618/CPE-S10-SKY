@@ -2,6 +2,7 @@
 创维Swaiot 5G CPE
 
 分区信息
+
 M01MX# smem
 flash_type:             0x6
 flash_index:            0x0
